@@ -79,3 +79,4 @@ describe("utilities -> mailer", () => {
     expect(mockCreateTransport).toHaveBeenCalledWith(testTransport);
   });
 });
+

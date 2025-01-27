@@ -18,3 +18,4 @@ export const appConfig = {
   /** An array of supported language for the application. */
   supportedLocales: ["hi", "en", "zh", "fr", "sp"],
 };
+

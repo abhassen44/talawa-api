@@ -54,3 +54,4 @@ export const createTestEventWithRegistrants = async (
 
   return [testUser, testOrganization, testEvent];
 };
+

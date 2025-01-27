@@ -8,31 +8,33 @@ If you are new to contributing to open source, please read the Open Source Guide
 
 <!-- toc -->
 
-- [Code of Conduct](#code-of-conduct)
-- [Videos](#videos)
-- [Ways to Contribute](#ways-to-contribute)
-  - [Our Development Process](#our-development-process)
-    - [Issues](#issues)
-    - [Pull Requests](#pull-requests)
-    - [Branching Strategy](#branching-strategy)
-    - [Conflict Resolution](#conflict-resolution)
-  - [Contributing Code](#contributing-code)
-- [Upgrading Code](#upgrading-code)
-    - [Setting up Upstream and Origin](#setting-up-upstream-and-origin)
-    - [Creating a Pull Request - Process Overview](#creating-a-pull-request---process-overview)
-- [Type checking and code quality](#type-checking-and-code-quality)
-  - [Type checking code files](#type-checking-code-files)
-  - [Linting code files](#linting-code-files)
-  - [Formatting code files](#formatting-code-files)
-  - [Generating Table of Contents](#generating-table-of-contents)
-  - [Automation using husky](#automation-using-husky)
-    - [Pre-Commit hook](#pre-commit-hook)
-    - [Post-Merge hook](#post-merge-hook)
-  - [GraphQL Voyager](#graphql-voyager)
-  - [GraphQL Markdown](#graphql-markdown)
-  - [Running Queries with talawa-api](#running-queries-with-talawa-api)
-- [Internships](#internships)
-- [Community](#community)
+- [Contributing to Talawa API](#contributing-to-talawa-api)
+  - [Table of Contents](#table-of-contents)
+  - [Code of Conduct](#code-of-conduct)
+  - [Videos](#videos)
+  - [Ways to Contribute](#ways-to-contribute)
+    - [Our Development Process](#our-development-process)
+      - [Issues](#issues)
+      - [Pull Requests](#pull-requests)
+      - [Branching Strategy](#branching-strategy)
+      - [Conflict Resolution](#conflict-resolution)
+    - [Contributing Code](#contributing-code)
+  - [Upgrading Code](#upgrading-code)
+      - [Setting up Upstream and Origin](#setting-up-upstream-and-origin)
+      - [Creating a Pull Request - Process Overview](#creating-a-pull-request---process-overview)
+  - [Type checking and code quality](#type-checking-and-code-quality)
+    - [Type checking code files](#type-checking-code-files)
+    - [Linting code files](#linting-code-files)
+    - [Formatting code files](#formatting-code-files)
+    - [Generating Table of Contents](#generating-table-of-contents)
+    - [Automation using husky](#automation-using-husky)
+      - [Pre-Commit hook](#pre-commit-hook)
+      - [Post-Merge hook](#post-merge-hook)
+    - [GraphQL Voyager](#graphql-voyager)
+    - [GraphQL Markdown](#graphql-markdown)
+    - [Running Queries with talawa-api](#running-queries-with-talawa-api)
+  - [Internships](#internships)
+  - [Community](#community)
 
 <!-- tocstop -->
 
@@ -325,3 +327,4 @@ There are many ways to communicate with the community.
 
 1. The Palisadoes Foundation has a Slack channel where members can assist with support and clarification. Visit the [Talawa GitHub repository home page](https://github.com/PalisadoesFoundation/talawa) for the link to join our slack channel.
 1. We also have a technical email list run by [freelists.org](https://www.freelists.org/). Search for "palisadoes" and join. Members on this list are also periodically added to our marketing email list that focuses on less technical aspects of our work.
+

@@ -41,3 +41,4 @@ describe("utilities -> deleteDuplicatedImage", () => {
     expect(logSpy).not.toBeCalled();
   });
 });
+

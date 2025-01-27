@@ -132,3 +132,4 @@ describe("utilities -> adminCheck", () => {
     expect(spy).toBeCalledWith(USER_NOT_AUTHORIZED_ADMIN.MESSAGE);
   });
 });
+

@@ -199,3 +199,4 @@ describe("utilities -> imageAlreadyInDbCheck", () => {
     expect(mockedRequestTranslate).toBeCalledWith("invalid.fileType");
   });
 });
+

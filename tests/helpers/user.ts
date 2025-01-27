@@ -33,3 +33,4 @@ export const createTestUserFunc = async (): Promise<TestUserType> => {
   const testUser = await createTestUser();
   return testUser;
 };
+

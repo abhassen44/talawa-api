@@ -1,6 +1,6 @@
 # Talawa API
 
-[💬 Join the community on Slack](https://github.com/PalisadoesFoundation/)
+💬 Join the community on Slack from our [Palisadoes Foundation GitHub Home Page](https://github.com/PalisadoesFoundation)
 
 [![N|Solid](public/markdown/images/talawa-logo-lite-200x200.png)](https://github.com/PalisadoesFoundation/talawa-api)
 
@@ -8,6 +8,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/PalisadoesFoundation/talawa-api.svg?style=social&label=Star&maxAge=2592000)](https://github.com/PalisadoesFoundation/talawa-api)
 [![GitHub forks](https://img.shields.io/github/forks/PalisadoesFoundation/talawa-api.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/PalisadoesFoundation/talawa-api)
 [![codecov](https://codecov.io/gh/PalisadoesFoundation/talawa-api/branch/develop/graph/badge.svg?token=CECBQTAOKM)](https://codecov.io/gh/PalisadoesFoundation/talawa-api)
+[![Formatted with Biome](https://img.shields.io/badge/Formatted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev/)
+[![Linted with Biome](https://img.shields.io/badge/Linted_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)
+[![Checked with Biome](https://img.shields.io/badge/Checked_with-Biome-60a5fa?style=flat&logo=biome)](https://biomejs.dev)
 
 Talawa is a modular open source project to manage group activities of both non-profit organizations and businesses.
 
@@ -25,6 +28,8 @@ Core features include:
 
 <!-- toc -->
 
+- [Talawa API](#talawa-api)
+  - [Table of Contents](#table-of-contents)
   - [Talawa Components](#talawa-components)
 - [Documentation](#documentation)
   - [Videos](#videos)

@@ -61,3 +61,4 @@ describe("utilities -> superAdminCheck", () => {
     }
   });
 });
+
