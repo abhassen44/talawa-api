@@ -1,0 +1,23 @@
+# Stage 1: Install Dependencies
+FROM node:20.10.0 AS builder
+
+# Set working directory inside the container
+WORKDIR /usr/src/app
+
+# Install pnpm globally
+RUN npm install -g pnpm
+
+# Copy package.json and pnpm-lock.yaml to leverage caching
+COPY package.json pnpm-lock.yaml ./
+
+# Install dependencies using pnpm
+RUN pnpm install
+
+# Copy all project files
+COPY . .
+
+# Expose the application port (change if needed)
+EXPOSE 4000
+
+# Default command to start the development server
+CMD ["pnpm", "start_development_server"]
